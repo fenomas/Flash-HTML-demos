@@ -22,4 +22,4 @@ FlashアニメーションをCreateJSでHTML5 Canvasに持って行く簡単な�
 1. 出来上がったアニメーションは[こちら][1]で確認できます。
 
 
-  [1]: http://www.example.com/ "title"
+  [1]: http://htmlpreview.github.com/?https://github.com/andyhall/Flash-HTML-demos/blob/master/2a-createJS/runner.html "title"
