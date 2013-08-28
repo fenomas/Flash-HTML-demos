@@ -15,8 +15,8 @@ A simple example of publishing a Flash animation to HTML5 Canvas with CreateJS.
 
 FlashアニメーションをCreateJSでHTML5 Canvasに持って行く簡単なデモです。
 
-1. Flash を起動して runner.fla を開く。
-3. トップメニューで、**ウィンドウ → Toolkit for CreateJS** を選択する。
+1. Flash を起動して「runner.fla」を開く。
+3. トップメニューで、「ウィンドウ → Toolkit for CreateJS」を選択する。
 4. `パブリッシュ`を選択。
 5. HTMLとJSファイルが出来上がる。ベクター画像がJSで描画されるので、本デモでは画像は書き出されないことをご注意。
 1. 出来上がったアニメーションは[こちら][1]で確認できます。

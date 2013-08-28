@@ -22,7 +22,7 @@ Flashアニメーションをボーンアニメーションに変換する激簡
 1. DragonBones の拡張パネルを http://dragonbones.github.io/ から入手。
 1. .zxp ファイルをダブルクリックして、Extension Manager でインストールする。
 2. Flash を起動して Dragon.fla を開く。
-3. トップメニューで、**ウィンドウ → エクステンション → DragonBonesDesignPanel** を選択する。
+3. トップメニューで、「ウィンドウ → エクステンション → DragonBonesDesignPanel」を選択する。
 4. DragonBonesのパネルでにあるプルダウンメニューで、言語を日本語に設定できる。
 1. パネルで`読み込み`を選択。
 5. 読み込み設定を「全てのライブラリアイテム」に設定して、`OK`を選択。
