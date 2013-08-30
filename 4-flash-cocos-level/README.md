@@ -31,7 +31,7 @@ Flashをプラットフォーマーゲームのレベルエディターとして
 その場合、ローカルのhttpサーバー（MAMPなど）、もしくは外部のウェブサーバーで確認する必要があります。）
 
 
-  [1]: http://htmlpreview.github.com/?https://github.com/andyhall/Flash-HTML-demos/blob/master/4-flash-cocos-level/build/index.html
+  [1]: http://andyhall.github.io/Flash-HTML-demos/4-flash-cocos-level/build/
   
 
 

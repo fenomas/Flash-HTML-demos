@@ -38,7 +38,7 @@ Flashアニメーションをスプライトシートとして書き出して、
 
 
   [1]: http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Cocos2d-html5
-  [2]: http://htmlpreview.github.com/?https://github.com/andyhall/Flash-HTML-demos/blob/master/3-flash-cocos-spritesheet/build/index.html
+  [2]: http://andyhall.github.io/Flash-HTML-demos/3-flash-cocos-spritesheet/build/
   
 
 
